@@ -7,3 +7,6 @@ Predicting stadium attendance for major league baseball
 * Bayesian optimization technique was used to optimize game schedule for MLB 2023
 
 ![image](https://github.com/DumBiriyani/MLB/assets/19753112/11475e0f-a0ee-4289-bba0-e0d487aa708d)
+
+
+![image](https://github.com/DumBiriyani/MLB/assets/19753112/ac8bc0f5-0e3e-45e7-b5f5-0ef7a4f25fe1)
